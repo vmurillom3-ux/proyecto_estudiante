@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "nombre": "Vanessa",
+    "apellido": "Murillo",
+    "email": "vmurillom3@unemi.edu.ec",
+    "carnet": "EST2026001",
+    "notas": {
+      "Programacion Orientada A Objeto": [
+        18
+      ]
+    },
+    "materias": [
+      "Programacion Orientada A Objeto"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Emely",
+    "apellido": "Zambrano",
+    "email": "ezambranom@unemi.edu.ec",
+    "carnet": "EST2026002",
+    "notas": {
+      "Estadistica": [
+        18
+      ]
+    },
+    "materias": [
+      "Estadistica"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Patricia",
+    "apellido": "Macias",
+    "email": "pmaciasa@unemi.edu.ec",
+    "carnet": "EST2026003",
+    "notas": {
+      "Base De Datos": [
+        18
+      ]
+    },
+    "materias": [
+      "Base De Datos"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Jean",
+    "apellido": "Bermello",
+    "email": "jbermellom@unemi.edu.ec",
+    "carnet": "EST2026004",
+    "notas": {
+      "Programacion Orientada A Objetos": [
+        7
+      ]
+    },
+    "materias": [
+      "Programacion Orientada A Objetos"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Franklin",
+    "apellido": "Morales",
+    "email": "fmoraless@unemi.edu.ec",
+    "carnet": "EST2026005",
+    "notas": {
+      "Estadistica": [
+        16
+      ]
+    },
+    "materias": [
+      "Estadistica"
+    ]
+  }
+]
